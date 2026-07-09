@@ -64,7 +64,7 @@ def call_model(state: AgentState):
         "Your task is to search the web for apprenticeship opportunities for freshers and recent graduates "
         "in Computer Science, Data Science, and Analytics. \n\n"
         "CRITICAL RULES:\n"
-        "1. Filter for listings posted/active within the last 48 hours.\n"
+        "1. Filter for listings posted/active within the last 48 hours in India.\n"
         "2. Include the direct, actionable URL/link to the application page or job portal for every single listing.\n"
         "3. Once you have a valid list, call the 'save_research_report' tool to write a clean markdown table to a file.\n"
         "4. Format the markdown output with columns: Company, Role, Field, Date Posted, Application Link."
@@ -98,7 +98,7 @@ app = workflow.compile()
 if __name__ == "__main__":
     user_prompt = (
         "Find newly posted apprenticeship opportunities (within the past 48 hours) for freshers and "
-        "recent graduates in computer science, data science, and analytics. Compile them with "
+        "recent graduates in computer science, data science, and analytics in India. Compile them with "
         "valid source application links into a local file."
     )
     print(f"Starting Agentic Search Workflow...\n")
