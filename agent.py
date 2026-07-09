@@ -7,7 +7,7 @@ from langchain_core.tools import tool
 from langchain_core.messages import BaseMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_tavily import TavilySearch
-web_search_tool = TavilySearch(max_results=5)
+
 from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 from langgraph.prebuilt import ToolNode
@@ -17,7 +17,7 @@ from langgraph.prebuilt import ToolNode
 # ==========================================
 
 # Tool A: Web Search via Tavily (Optimized for thorough results)
-web_search_tool = TavilyAnswer(max_results=5)
+web_search_tool = TavilySearch(max_results=5)
 
 # Tool B: Custom File Automation Tool
 @tool
