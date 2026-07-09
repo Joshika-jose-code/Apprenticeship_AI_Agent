@@ -1,0 +1,38 @@
+name: Run Apprenticeship Agent Every 48 Hours
+
+on:
+  schedule:
+    # Runs at 00:00 every 2 days
+    - cron: '0 0 */2 * *'
+  workflow_dispatch: # Allows you to trigger it manually via the GitHub UI
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          pip install langgraph langchain-google-genai langchain-community tavily-python
+
+      - name: Execute Agent Script
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: python agent.py
+
+      - name: Commit and Push Updated Markdown List
+        run: |
+          git config --global user.name "Github Action Bot"
+          git config --global user.email "actions@github.com"
+          git add apprenticeship_listings.md
+          git commit -m "Automated Sync: Updated Apprenticeship Listings" || exit 0
+          git push
