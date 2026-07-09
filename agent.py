@@ -1,3 +1,5 @@
+pip install -U langchain-tavily
+
 import os
 from datetime import datetime, timedelta
 from typing import Annotated, Literal
@@ -6,7 +8,8 @@ from typing_extensions import TypedDict
 from langchain_core.tools import tool
 from langchain_core.messages import BaseMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_community.tools.tavily_search import TavilyAnswer
+from langchain_tavily import TavilySearch
+web_search_tool = TavilySearch(max_results=5)
 from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 from langgraph.prebuilt import ToolNode
@@ -36,7 +39,7 @@ tool_node = ToolNode(tools)
 # ==========================================
 # 2. CONFIGURE THE LLM BRAIN
 # ==========================================
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.1)
+llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", temperature=0.1)
 llm_with_tools = llm.bind_tools(tools)
 
 # ==========================================
