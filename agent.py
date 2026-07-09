@@ -1,5 +1,3 @@
-pip install -U langchain-tavily
-
 import os
 from datetime import datetime, timedelta
 from typing import Annotated, Literal
