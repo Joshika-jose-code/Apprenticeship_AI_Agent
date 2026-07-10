@@ -21,7 +21,6 @@ web_search_tool = TavilySearch(max_results=5)
 
 # Tool B: Custom File Automation Tool
 @tool
-@tool
 def save_research_report(content: str) -> str:
     """Saves the final, compiled apprenticeship listings into a local file.
     Use this tool ONLY when you have completed all necessary research."""
