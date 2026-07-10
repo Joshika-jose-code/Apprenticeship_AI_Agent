@@ -21,9 +21,11 @@ web_search_tool = TavilySearch(max_results=5)
 
 # Tool B: Custom File Automation Tool
 @tool
-def save_research_report(content: str, filename: str = "apprenticeship_listings.md") -> str:
-    """Saves the final, compiled apprenticeship listings into a local file. 
+@tool
+def save_research_report(content: str) -> str:
+    """Saves the final, compiled apprenticeship listings into a local file.
     Use this tool ONLY when you have completed all necessary research."""
+    filename = "apprenticeship_listings.md"
     try:
         with open(filename, "w", encoding="utf-8") as f:
             f.write(content)
