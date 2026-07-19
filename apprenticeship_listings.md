@@ -1,30 +1,28 @@
 
 | Company | Role | Field | Date Posted | Application Link |
 |---|---|---|---|---|
-| AVP VIGILANT TECHNOLOGY PVT LTD | AI Developer (Freshers) | Computer Science / AI | Approx. within 48 hours | https://in.linkedin.com/jobs/view/ai-developer-freshers-at-avp-vigilant-technology-pvt-ltd-4440724554 |
-| Radhey Consultancy | IT Internship Program (Freshers) | Computer Science/Data Science | Approx. within 48 hours | https://in.linkedin.com/jobs/view/it-internship-program-%E2%80%93-freshers-ai-full-stack-salesforce-data-science-cybersecurity-devops-at-radhey-consultancy-4440638472 |
-| TantranZm | Data Engineer (Freshers) | Data Science | Approx. within 48 hours | https://in.linkedin.com/jobs/view/data-engineer-freshers-at-tantranzm-4440647825 |
-| AVP VIGILANT TECHNOLOGY PVT LTD | Full Stack Developer (Freshers) | Computer Science | Approx. within 48 hours | https://in.linkedin.com/jobs/view/full-stack-developer-freshers-at-avp-vigilant-technology-pvt-ltd-4440639707 |
-| Starling Services LLC | Software Engineering Intern | Computer Science | Approx. within 48 hours | https://in.linkedin.com/jobs/view/software-engineering-intern-at-starling-services-llc-4441440422 |
-| MediNex Workforce | Junior Computer Science Associate – Internship Remote | Computer Science | Approx. within 48 hours | https://in.linkedin.com/jobs/view/junior-medical-coding-associate-%E2%80%93-internship-remote-at-medinex-workforce-4440755792 |
-| VIAVI Solutions | Apprentice - 1 | Engineering (IT/Software) | Approx. within 48 hours | https://in.linkedin.com/jobs/view/apprentice-1-at-viavi-solutions-4440649861 |
-| Peroptyx | Data Analyst (Kannada Speaker) - Fresher (WFH & Part Time) | Data Analytics | Approx. within 48 hours | https://internshala.com/job/detail/fresher-remote-part-time-data-analyst-kannada-speaker-job-at-peroptyx1782834768 |
-| InAmigos Foundation | AI Data Analytics Work From Home Internship | Data Analytics / AI | Approx. within 48 hours | https://internshala.com/internship/detail/work-from-home-ai-data-analytics-internship-at-inamigos-foundation1784196216 |
-| Convegenius Edu | Intern - Data Science | Data Science | Approx. within 48 hours | https://www.naukri.com/job-listings-intern-data-science-convegenius-edu-solutions-pvt-ltd-pune-0-to-1-years-160726500039 |
-| AMERICAN EXPRESS | Analyst - Data Science (SQL, Python, GenAI) | Data Science / AI | Today | https://www.naukri.com/american-express-jobs-careers-2256 |
-| AMERICAN EXPRESS | Analyst - Data Analytics (Python, SQL, Gen AI) | Data Analytics / AI | Today | https://www.naukri.com/american-express-jobs-careers-2256 |
-| AMERICAN EXPRESS | Analyst-Data Science | Data Science | 3 days ago | https://www.naukri.com/american-express-jobs-careers-2256 |
-| AMERICAN EXPRESS | Analyst - Data Science (SQL, Python, GenAI) | Data Science / AI | 3 days ago | https://www.naukri.com/american-express-jobs-careers-2256 |
-| MTEHealthIQ | Data Analytics Trainee | Data Analytics | 11 hours ago | https://in.linkedin.com/jobs/view/data-analytics-trainee-at-mtehealthiq-4438714927 |
-| MTE Technologies | Data Analysis Trainee | Data Analytics | 5 days ago | https://in.linkedin.com/jobs/view/data-analysis-trainee-at-mte-technologies-4436657849 |
-| InfraOne School of AI | Data Analytics Intern | Data Analytics / AI | 1 day ago | https://in.linkedin.com/jobs/view/data-analytics-intern-at-infraone-school-of-ai-4439976705 |
-| ArGo Intern | Data Analyst Intern | Data Analytics | 2 days ago | https://in.linkedin.com/jobs/view/data-analyst-intern-power-bi-excel-sql-dashboard-projects-at-argo-intern-4439808844 |
-| AnalyticaX Technologies | Business Analytics Intern | Business Analytics | Approx. within 1 week | https://in.linkedin.com/jobs/view/business-analytics-intern-at-analyticax-4436668701 |
-| Jobs Opportunity | Data Analytics Intern | Data Analytics | 3 days ago | https://in.linkedin.com/jobs/view/data-analytics-intern-at-jobs-opportunity-4440351409 |
-| Future Interns | Data Analytics Intern | Data Science & Analytics | Approx. within 1 week | https://in.linkedin.com/jobs/view/data-analytics-intern-at-future-interns-4439422832 |
-| Wake Up Whistle | Data Analyst Intern (Excel, SQL, Power BI) | Data Analytics | 2 days ago | https://in.linkedin.com/jobs/view/data-analyst-intern-excel-sql-power-bi-remove-fresher-tag-at-wake-up-whistle-4439810947 |
-| kaushalsaathi (Sunsys Techsol Pvt. Ltd.) | Data Analytics Intern | Data Analytics | 2 days ago | https://in.linkedin.com/jobs/view/data-analytics-intern-at-kaushalsaathi-4437636708 |
-| SSR FIRST LENS PVT LTD | Analyst Interns | Data Analytics | Approx. within 1 week | https://in.linkedin.com/jobs/view/analyst-interns-pune-only-at-ssr-first-lens-pvt-ltd-4439961604 |
-| PAS Digital Technologies | CRM Analyst Intern | Business Analytics / CRM | Approx. within 1 week | https://in.linkedin.com/jobs/view/crm-analyst-intern-at-pas-digital-technologies-4437663754 |
-| CHEARS | Innovating with technology | Intern - Data Analytics | Data Analytics | Approx. within 1 week | https://in.linkedin.com/jobs/view/intern-data-analytics-at-chears-innovating-with-technology-4339741247 |
-| Webs X UM | Data Analyst Intern | Data Analytics | 1 day ago | https://in.linkedin.com/jobs/view/data-analyst-intern-at-webs-x-um-4441221776 |
+| Google | Data Analytics Apprenticeship | Data Analytics | 2026 (Approximate) | https://internshala.com/blog/google-data-analytics-apprenticeship |
+| CS Vision | Graduate Students Summer Internship | Computer Science, Data Science, Data Analytics, Business Analytics, AI, ML, Java, Python, Web Development | 2026-07-18 | https://in.linkedin.com/jobs/view/graduate-students-summer-internship-at-cs-vision-4433192057 |
+| PoojaKaro App | Graduate Trainee – AI Agent Developer Intern | AI, Computer Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/graduate-trainee-%E2%80%93-ai-agent-developer-intern-at-poojakaro-app-4440754276 |
+| Hire Feed | Computer Science Specialist (Remote) | Computer Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/computer-science-specialist-remote-at-hire-feed-4440398049 |
+| Cogniq AI | AI Web Developer & Prototyping Intern [Remote] | AI, Web Development, Computer Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/al-web-developer-prototyping-intern-remote-at-cogniq-ai-4438407111 |
+| S&P Global | Apprentice, Software Development/Engineering | Software Development, Computer Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/apprentice-software-development-engineering-at-s-p-global-4440768036 |
+| MTERajasthan | Data Analytics Trainee | Data Analytics | 2026-07-17 | https://in.linkedin.com/jobs/view/data-analyst-at-medtoureasy-4438494370 |
+| MTEKarnataka | Data Analyst Trainee | Data Analytics | 2026-07-16 | https://in.linkedin.com/jobs/view/data-analyst-trainee-at-mtekarnataka-4439979991 |
+| ZEVpoint | Data Scientist (Remote) | Data Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-scientist-remote-at-zevpoint-4439981922 |
+| PAI by Polestar Analytics | Data Science | Data Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-science-at-pai-by-polestar-analytics-4438994774 |
+| SEOAK | Data Science Mentor | Data Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-science-mentor-at-seoak-4438470558 |
+| Expedia Group | Data Scientist II, Customer Analytics | Data Science, Analytics | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-scientist-ii-customer-analytics-at-expedia-group-4440293711 |
+| MedTourEasy Analytics Department | Data Analytics Trainee | Data Analytics | 2026-07-16 | https://in.linkedin.com/jobs/view/data-analytics-trainee-at-medtoureasy-analytics-department-4438036478 |
+| MTEHealthIQ | Data Analytics Trainee | Data Analytics | 2026-07-19 | https://in.linkedin.com/jobs/view/data-analytics-at-medtoureasy-4439625642 |
+| T D Newton & Associates | Python Business Analytics | Business Analytics, Data Analytics | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/python-business-analytics-at-t-d-newton-associates-4440956968 |
+| DataLegions | Data Analyst / Data Scientist Intern | Data Analytics, Data Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-analyst-data-scientist-intern-at-datalegions-4437649910 |
+| MedTourEasy United Arab Emirates | Data Analyst Trainee | Data Analytics | 2026-07-14 | https://in.linkedin.com/jobs/view/data-analyst-trainee-at-medtoureasy-united-arab-emirates-4437244872 |
+| Product Pulse | Data Analyst – Retail Analytics | Data Analytics | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-analyst-%E2%80%93-retail-analytics-at-product-pulse-4440266602 |
+| Interface Infosys | Artificial Intelligence Trainee | Artificial Intelligence, Data Science | 2026-07-17 (Inferred) | https://www.naukri.com/trainee-artificial-intelligence-jobs |
+| Creative Hands HR | Data Analytic \| Fresher \| Business Analytics | Data Analytics, Business Analytics | 2026-07-14 (Inferred) | https://www.naukri.com/trainee-junior-data-analyst-jobs |
+| Apex Engineering Solutions | Data Analyst Fresher , Data Analytics | Data Analytics | 2026-07-15 (Inferred) | https://www.naukri.com/trainee-junior-data-analyst-jobs |
+| Enerture Technologies Pvt Ltd | Data Analyst Intern | Data Analytics | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-analyst-intern-at-enerture-technologies-pvt-ltd-4438987885 |
+| DeHaat | Data Analyst Intern | Data Analytics | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-analyst-intern-at-dehaat-4441174210 |
+| Prepisely | Data Science internship | Data Science | 2026-07-16 | https://in.linkedin.com/jobs/view/data-science-internship-at-prepisely-4438094438 |
+| AVP VIGILANT TECHNOLOGY PVT LTD | AI Developer (Freshers) | AI, Computer Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/ai-developer-freshers-at-avp-vigilant-technology-pvt-ltd-4440724554 |
