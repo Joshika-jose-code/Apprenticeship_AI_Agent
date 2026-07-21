@@ -1,28 +1,23 @@
 
 | Company | Role | Field | Date Posted | Application Link |
 |---|---|---|---|---|
-| Google | Data Analytics Apprenticeship | Data Analytics | 2026 (Approximate) | https://internshala.com/blog/google-data-analytics-apprenticeship |
-| CS Vision | Graduate Students Summer Internship | Computer Science, Data Science, Data Analytics, Business Analytics, AI, ML, Java, Python, Web Development | 2026-07-18 | https://in.linkedin.com/jobs/view/graduate-students-summer-internship-at-cs-vision-4433192057 |
-| PoojaKaro App | Graduate Trainee – AI Agent Developer Intern | AI, Computer Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/graduate-trainee-%E2%80%93-ai-agent-developer-intern-at-poojakaro-app-4440754276 |
-| Hire Feed | Computer Science Specialist (Remote) | Computer Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/computer-science-specialist-remote-at-hire-feed-4440398049 |
-| Cogniq AI | AI Web Developer & Prototyping Intern [Remote] | AI, Web Development, Computer Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/al-web-developer-prototyping-intern-remote-at-cogniq-ai-4438407111 |
-| S&P Global | Apprentice, Software Development/Engineering | Software Development, Computer Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/apprentice-software-development-engineering-at-s-p-global-4440768036 |
-| MTERajasthan | Data Analytics Trainee | Data Analytics | 2026-07-17 | https://in.linkedin.com/jobs/view/data-analyst-at-medtoureasy-4438494370 |
-| MTEKarnataka | Data Analyst Trainee | Data Analytics | 2026-07-16 | https://in.linkedin.com/jobs/view/data-analyst-trainee-at-mtekarnataka-4439979991 |
-| ZEVpoint | Data Scientist (Remote) | Data Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-scientist-remote-at-zevpoint-4439981922 |
-| PAI by Polestar Analytics | Data Science | Data Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-science-at-pai-by-polestar-analytics-4438994774 |
-| SEOAK | Data Science Mentor | Data Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-science-mentor-at-seoak-4438470558 |
-| Expedia Group | Data Scientist II, Customer Analytics | Data Science, Analytics | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-scientist-ii-customer-analytics-at-expedia-group-4440293711 |
-| MedTourEasy Analytics Department | Data Analytics Trainee | Data Analytics | 2026-07-16 | https://in.linkedin.com/jobs/view/data-analytics-trainee-at-medtoureasy-analytics-department-4438036478 |
-| MTEHealthIQ | Data Analytics Trainee | Data Analytics | 2026-07-19 | https://in.linkedin.com/jobs/view/data-analytics-at-medtoureasy-4439625642 |
-| T D Newton & Associates | Python Business Analytics | Business Analytics, Data Analytics | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/python-business-analytics-at-t-d-newton-associates-4440956968 |
-| DataLegions | Data Analyst / Data Scientist Intern | Data Analytics, Data Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-analyst-data-scientist-intern-at-datalegions-4437649910 |
-| MedTourEasy United Arab Emirates | Data Analyst Trainee | Data Analytics | 2026-07-14 | https://in.linkedin.com/jobs/view/data-analyst-trainee-at-medtoureasy-united-arab-emirates-4437244872 |
-| Product Pulse | Data Analyst – Retail Analytics | Data Analytics | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-analyst-%E2%80%93-retail-analytics-at-product-pulse-4440266602 |
-| Interface Infosys | Artificial Intelligence Trainee | Artificial Intelligence, Data Science | 2026-07-17 (Inferred) | https://www.naukri.com/trainee-artificial-intelligence-jobs |
-| Creative Hands HR | Data Analytic \| Fresher \| Business Analytics | Data Analytics, Business Analytics | 2026-07-14 (Inferred) | https://www.naukri.com/trainee-junior-data-analyst-jobs |
-| Apex Engineering Solutions | Data Analyst Fresher , Data Analytics | Data Analytics | 2026-07-15 (Inferred) | https://www.naukri.com/trainee-junior-data-analyst-jobs |
-| Enerture Technologies Pvt Ltd | Data Analyst Intern | Data Analytics | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-analyst-intern-at-enerture-technologies-pvt-ltd-4438987885 |
-| DeHaat | Data Analyst Intern | Data Analytics | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/data-analyst-intern-at-dehaat-4441174210 |
-| Prepisely | Data Science internship | Data Science | 2026-07-16 | https://in.linkedin.com/jobs/view/data-science-internship-at-prepisely-4438094438 |
-| AVP VIGILANT TECHNOLOGY PVT LTD | AI Developer (Freshers) | AI, Computer Science | 2026-07-18 (Approximate) | https://in.linkedin.com/jobs/view/ai-developer-freshers-at-avp-vigilant-technology-pvt-ltd-4440724554 |
+| Citi Bank | Apprentice | Financial Sector (IT/CS) | Approx. 2025 | https://jobsnet.in/citi-bank-apprenticeship-program-2025 |
+| GSK | CTT LSR – Apprenticeship | Clinical Trial Transparency, Automation, Data-driven Healthcare Operations (CS, IT, Data Science, Bioinformatics, Statistics, Health Informatics) | Approx. within the last week | https://pharmabharat.com/gsk-hiring-freshers-in-clinical-trial-transparency-lsr-apprenticeship |
+| American Express | Apprentice | General (IT/CS) | Within the last week (inferred) | https://in.linkedin.com/jobs/view/apprentice-at-american-express-4440209359 |
+| Google | Software Application Development Apprenticeship | Software Development (Computer Science) | Approx. March 2027 Start | https://careers.google.com/jobs/results/100307754802913990-software-development-apprenticeship |
+| Nbyula - Skillizens without Borders | Software Application Engineer- Apprenticeship | Software Engineering (Computer Science) | Within the last month (inferred) | https://in.linkedin.com/jobs/view/software-application-engineer-apprenticeship-at-nbyula-skillizens-without-borders-4257347824 |
+| SymphonyAI | Apprentice - QA Engineer | Quality Assurance (Computer Science) | 4 days ago (from LinkedIn company page) | https://bebee.com/in/jobs/apprentice-qa-engineer-symphonyai-bengaluru-bangalore--techmap_in_58162998 |
+| Accenture | App Automation Eng New Associate | Application Automation Engineering (Computer Science) | Within the last week (inferred) | https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01647324_en |
+| Five9 | Apprentice- Technical Support | Technical Support (Computer Science) | 9 days ago (from Glassdoor) | https://www.opentoworkremote.com/view/1470758 |
+| RB Design Tech | Junior AI Software Engineers / AI Engineer Interns | AI Software Engineering (Computer Science, Data Science) | 2 months ago (from LinkedIn) | https://in.linkedin.com/jobs/view/junior-ai-software-engineers-ai-engineer-interns-at-rb-design-tech-4405964086 |
+| C-Zentrix | Prompt Engineering- Freshers | AI/ML (Computer Science, Data Science) | 5 days ago (inferred) | https://in.linkedin.com/jobs/view/prompt-engineering-freshers-at-c-zentrix-4439981332 |
+| Jacobs | Apprentice Engineer - Data Analyst | Data Analytics | 6 days ago (inferred) | https://in.linkedin.com/jobs/view/apprentice-engineer-data-analyst-at-jacobs-4440529422 |
+| Prepisely | Data Science internship | Data Science | 5 days ago (inferred) | https://in.linkedin.com/jobs/view/data-science-internship-at-prepisel-4438094438 |
+| Future Interns | Data Science & Analytics Intern | Data Science & Analytics | 5 days ago (inferred) | https://in.linkedin.com/jobs/view/data-science-analytics-intern-at-future-interns-4439894207 |
+| Infosys BPM | Data (Health Insurance) | Data Analytics (Health Insurance) | July 16, 2026 | https://in.linkedin.com/jobs/view/walkin-drive-for-freshers-b-pharma-bsc-chemistry-for-data-health-insurance-from-batch-2023-to-2025-no-bca-mba-m-com-be-b-tech-mca-at-pune-on-16th-july-2026-at-infosys-bpm-4439818494 |
+| Hire Feed | Data Science engineer (Remote) | Data Science, Machine Learning | 5 days ago (inferred) | https://www.linkedin.com/jobs/view/data-science-engineer-remote-at-hire-feed-4440905777 |
+| Google | Data Analytics Apprenticeship | Data Analytics | Approx. March 2027 Start | https://in.linkedin.com/jobs/view/data-analytics-apprenticeship-march-2027-start-at-google-4442218445 |
+| Jobgenix | Apprentice-Data Analyst | Data Analytics | 6 days ago (inferred) | https://in.linkedin.com/jobs/view/apprentice-data-analyst-at-jobgenix-4439632661 |
+| MedTourEasy AP | Data Analytics Trainee | Data Analytics | 2 days ago (inferred) | https://in.linkedin.com/jobs/view/data-analytics-trainee-at-medtoureasy-ap-4439292756 |
+| MTERajasthan | Data Analytics Trainee | Data Analytics | 4 days ago (inferred) | https://in.linkedin.com/jobs/view/data-analytics-trainee-at-mterajasthan-4438445949 |
+| MTERajasthan | Data Analytics Trainee | Data Analytics | 6 days ago (inferred) | https://in.linkedin.com/jobs/view/data-analytics-trainee-at-mterajasthan-4437662119 |
